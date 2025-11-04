@@ -9,12 +9,9 @@
 reallinux-level-up_challenge/
 ├─ README.md # 전체 개요
 ├─ labs/ # 실습별 폴더
-│ ├─ strace/ # 시스템콜 추적 실습
-│ │ ├─ run.sh
-│ │ └─ README.md
 
 | Lab | Topic | Description |
 |-----|--------|-------------|
-| [strace](labs/strace/README.md) | 시스템콜 추적 | 프로세스의 시스템콜 흐름을 분석 |
-| [portnum](labs/portnum/README.md) | 프로세스 찾기 | 네트워크 80 포트번호 사용중인 프로세스 찾기
+| [strace](labs/Q8.strace/README.md) | 시스템콜 추적 | 프로세스의 시스템콜 흐름을 분석 |
+| [portnum](labs/Q12.portnum/README.md) | 프로세스 찾기 | 네트워크 80 포트번호 사용중인 프로세스 찾기
 
