@@ -16,3 +16,5 @@ reallinux-level-up_challenge/
 | Lab | Topic | Description |
 |-----|--------|-------------|
 | [strace](labs/strace/README.md) | 시스템콜 추적 | 프로세스의 시스템콜 흐름을 분석 |
+| [portnum](labs/portnum/REAME.md) | 프로세스 찾기 | 네트워크 80 포트번호 사용중인 프로세스 찾기
+
