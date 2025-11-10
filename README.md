@@ -14,4 +14,4 @@ reallinux-level-up_challenge/
 |-----|--------|-------------|
 | [strace](labs/Q8.strace/README.md) | 시스템콜 추적 | 프로세스의 시스템콜 흐름을 분석 |
 | [portnum](labs/Q12.portnum/README.md) | 프로세스 찾기 | 네트워크 80 포트번호 사용중인 프로세스 찾기
-
+| [bootlog](labs/Q13.bootlog/README.md) | 부팅 로그 출력 | 시스템 부팅 로그 및 커널 메시지를 확인
