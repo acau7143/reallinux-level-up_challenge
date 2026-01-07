@@ -7,6 +7,6 @@
 4. `sshpass -p "wrong password" ssh reallinux@localhost` - 비밀번호가 틀린 상태에서 SSH 로그인 시도를 수행
 5. `journalctl -u sshd | grep "Failed password"` - 비밀번호 입력 실패로 인해 거부된 SSH 접속 시도만 필터링하여 확인
 ## Notes
-`journalctl` - systemd 기반 로그 확인 명령어
-`-u sshd` - "--unit=sshd" 의 약자로, sshd 서비스에 해당하는 로그만 출력
-`sshpass` - SSH 비밀번호를 비대화형(non-interactive)으로 전달하는 도구
+- `journalctl` - systemd 기반 로그 확인 명령어
+- `-u sshd` - "--unit=sshd" 의 약자로, sshd 서비스에 해당하는 로그만 출력
+- `sshpass` - SSH 비밀번호를 비대화형(non-interactive)으로 전달하는 도구
