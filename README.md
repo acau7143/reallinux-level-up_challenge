@@ -17,4 +17,5 @@ reallinux-level-up_challenge/
 | [portnum](labs/12.portnum/README.md) | 프로세스 찾기 | 네트워크 80 포트번호 사용중인 프로세스 찾기
 | [bootlog](labs/13.bootlog/README.md) | 부팅 로그 출력 | 시스템 부팅 로그 및 커널 메시지를 확인
 | [sshlog](labs/14.sshlog/README.md) | ssh 접속 로그 확인 | ssh에 접속된 로그를 확인해보고 접속 성공 실패 사례 실습해보기
+| [internet](labs/24.internet/README.md) | 서버 인터넷 연결 확인 방법 | 서버에 연결이 되는지 확인하기 위한 명령어 3가지
 
