@@ -18,4 +18,5 @@ reallinux-level-up_challenge/
 | [bootlog](labs/13.bootlog/README.md) | 부팅 로그 출력 | 시스템 부팅 로그 및 커널 메시지를 확인
 | [sshlog](labs/14.sshlog/README.md) | ssh 접속 로그 확인 | ssh에 접속된 로그를 확인해보고 접속 성공 실패 사례 실습해보기
 | [internet](labs/24.internet/README.md) | 서버 인터넷 연결 확인 방법 | 서버에 연결이 되는지 확인하기 위한 명령어 3가지
+| [DNS](labs/25.DNS/README.md) | DNS 설정 확인 방법 | DNS 설정 확인하는 명령어 3가지 알아봄
 
